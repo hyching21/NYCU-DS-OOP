@@ -1,2 +1,2 @@
-# NYCU-DS-OOP
-NYCU CS 111-2 資料結構與物件導向程式設計
+# 111-2 Data Structure & OOP
+prof：詹力韋
